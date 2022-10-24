@@ -39,45 +39,44 @@
     <!-- TEXT CONTAINER -->
     <div class="text">
         <!-- TITLE -->
-        <h1 class="title">Bored Hash Club: Gen 3 NFTS</h1>
+        <h1 class="title">Angry Penguins: Gen 3 NFTS</h1>
         <!-- TAGS -->
         <div class="tags">
             <div class="tag-pink"><p>Escrow: 1d</p></div>
             <div class="tag">
-                <p>Items: 7,777</p>
+                <p>Items: 444</p>
             </div>
             <div class="tag">
-                <p>??? HBAR</p>
+                <p>444 HBAR</p>
             </div>
             <!-- SOCIALS -->
             <div class="socials">
-                <img src={web} alt="Bored Hash Club Website" />
-                <img src={Discord} alt="Bored Hash Club Discord" />
-                <img src={Twitter} alt="Bored Hash Club Twitter" />
+                <img src={web} alt="AngryPenguins Website" />
+                <img src={Discord} alt="AngryPenguins Discord" />
+                <img src={Twitter} alt="AngryPenguins Twitter" />
             </div>
         </div>
         <!-- NFT PROJECT DESCRIPTION -->
         <p class="nft-project-desc">
-            Quis irure aliquip cupidatat est consequat quis esse aliquip ex
-            velit adipisicing ullamco dolore officia.
+            Below you can Mint our Angry Penguins! Are you ready?
         </p>
-        <!-- MINT INFO CARD -->
+        <!-- MINT INFO CARD
         <div class="mint-info-card">
             <div class="top">
                 <p class="white">Whitelist</p>
                 <p class="pink">Ended</p>
             </div>
             <div class="bottom">
-                <p>Whitelist 5,000 | Max 1 Token | Price: ??? HBAR</p>
+                <p>Whitelist | Max 1 Token | Price: 300 HBAR</p>
             </div>
-        </div>
+        </div>-->
         <div class="mint-info-card">
             <div class="top">
                 <p class="white">Public Sale</p>
                 <p class="pink">Ended</p>
             </div>
             <div class="bottom">
-                <p>Max 2 Tokens | Price: ??? HBAR</p>
+                <p>Max 2 Tokens | Price: 600 HBAR</p>
             </div>
         </div>
         <!-- MINT ACTIONS -->
@@ -99,7 +98,7 @@
                     />
                 </div>
                 <div class="bottom">
-                    <p>Total Minted</p>
+                    <p>AngryPenguins Minted</p>
                     <p>
                         <span>{100 - (nftRemaining * 100) / nftSupply}%</span>
                         ({nftRemaining}/{nftSupply})
@@ -110,7 +109,7 @@
     </div>
     <!-- IMAGE CONTAINER -->
     <div class="image">
-        <img src={a} alt="Bored Hash Club" />
+        <img src={a} alt="Angry Penguins" />
     </div>
 </section>
 
