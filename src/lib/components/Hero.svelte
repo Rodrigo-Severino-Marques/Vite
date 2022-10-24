@@ -290,7 +290,7 @@
                             // width: 100%;
                             height: 4px;
                             background: #5858ff;
-                            border-radius: 2px;
+                            border-radius: 5px;
                         }
                     }
                     .bottom {
