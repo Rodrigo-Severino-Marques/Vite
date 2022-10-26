@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  border: none
+}
+
+body {
+  background: #5F5E5E;
+}
+
+button {
+  cursor: pointer;
+}
