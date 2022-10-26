@@ -24,7 +24,7 @@
     onMount(async () => {
         fetchNftInterval;
         const res = await fetch(
-            `https://testnet.mirrornode.hedera.com/api/v1/tokens/48163190`
+            `https://testnet.mirrornode.hedera.com/api/v1/tokens/48738521`
         );
         const data = await res.json();
         nftSupply = data.total_supply;
